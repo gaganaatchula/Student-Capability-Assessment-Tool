@@ -1,0 +1,5 @@
+.env
+/venv
+config_zodiac.py
+config.py
+__pycache__/
